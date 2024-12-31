@@ -1,45 +1,52 @@
 # Hi there 👋
 
-Welcome to my GitHub profile! I'm a passionate developer working on various projects, from web applications to mobile apps. Here's a little bit about me and what I'm currently working on:
+Welcome to my GitHub profile! I'm Pratik Kedar, a passionate frontend developer and aspiring full-stack developer. I enjoy building visually appealing and user-friendly applications. Here's a little more about me and what I'm currently working on:
 
 ## About Me
 
-- 🌱 I’m currently learning and experimenting with **React.js**, **Next.js**, **Clerk**, and **backend development**.
-- 👨‍💻 I’m working on **DocLock**, a secure document management system similar to DigiLocker.
-- 💻 I'm focused on creating user-friendly and visually appealing applications.
-- 💬 Ask me about **JavaScript**, **React.js**, **HTML/CSS**, **Next.js**, or **web development** in general.
+- 🌱 I’m currently learning and experimenting with **React.js**, **Next.js**, and exploring **backend development**.
+- 👨‍💻 I’m working on **Forever**, an e-commerce platform for seamless online shopping.
+- 💻 I'm focused on creating interactive and responsive web applications with clean UI/UX designs.
+- 💬 Ask me about **JavaScript**, **React.js**, **HTML/CSS**, **Next.js**, or anything related to **frontend development**.
 
 ## Projects
 
-### DocLock
-A secure document management system where users can store, upload, and manage their important documents.
+### Forever (E-Commerce Website)
+An elegant e-commerce platform offering a seamless shopping experience with a wide range of products.
 
-- 💼 **Main Features**:
-  - User authentication and registration
-  - Document upload with success message notifications
-  - Search functionality for easy document retrieval
-  - Email notifications upon registration
-  - Responsive and visually appealing dashboard design
+- **Main Features**:
+  - User-friendly interface for easy navigation
+  - Product catalog with categories and search functionality
+  - Wishlist and shopping cart
+  - Responsive design for desktop and mobile devices
+
+### Insider Jobs (Job Portal)
+A React.js-based job portal connecting job seekers with employers.
+
+- **Main Features**:
+  - User registration and login system
+  - Job listing and application functionality
+  - Filter and search jobs by category and location
+  - Dashboard for applicants and recruiters
+  - Visually appealing and user-friendly interface
 
 ### Restaurant Website
-A sleek and modern website for a restaurant, providing users with menu options, reservation features, and more.
+A modern website showcasing restaurant menus and reservation features.
 
-- 💼 **Main Features**:
-  - User-friendly interface with a responsive design
-  - Online menu display with detailed dish descriptions
-  - Reservation system integration
-  - Contact form for inquiries
-  - Visual appeal with a focus on branding and user experience
+- **Main Features**:
+  - Responsive and user-friendly interface
+  - Menu display with detailed descriptions of dishes
+  - Integrated contact form for inquiries
+  - Visual branding with sleek design elements
 
 ## Skills
 
-- **Languages & Tools**: JavaScript, React.js, HTML, CSS, Next.js, Clerk
+- **Languages & Tools**: JavaScript, React.js, HTML, CSS, Next.js
 - **Technologies**: Frontend Development, Backend Development, User Authentication, UI/UX Design
 
 ## Get in Touch
 
-- 📫 Reach me at  kepratik8@gmail.com
-
+- 📫 Reach me at **kepratik8@gmail.com**
 
 Feel free to explore my repositories and projects. Contributions, suggestions, and collaborations are always welcome!
 
